@@ -1,0 +1,15 @@
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\bin\Debug\net6.0\Проект1.exe
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\bin\Debug\net6.0\Проект1.deps.json
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\bin\Debug\net6.0\Проект1.runtimeconfig.json
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\bin\Debug\net6.0\Проект1.dll
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\bin\Debug\net6.0\Проект1.pdb
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.csproj.AssemblyReference.cache
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.AssemblyInfoInputs.cache
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.AssemblyInfo.cs
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.csproj.CoreCompileInputs.cache
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.dll
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\refint\Проект1.dll
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.pdb
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\Проект1.genruntimeconfig.cache
+C:\Users\forAl\OneDrive\Рабочий стол\Папка С#\Проект1\obj\Debug\net6.0\ref\Проект1.dll
